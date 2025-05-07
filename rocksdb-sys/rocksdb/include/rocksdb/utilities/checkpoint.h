@@ -9,6 +9,7 @@
 #ifndef ROCKSDB_LITE
 
 #include <string>
+#include <stdint.h>
 #include "rocksdb/status.h"
 
 namespace rocksdb {
